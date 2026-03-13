@@ -1,4 +1,4 @@
-# VRC Avatar Agent
+# AvatarAgent
 
 AIチャットでVRChatアバター改変を自動化するUnity Editorツール  
 An AI-powered Unity Editor tool for automating VRChat avatar customization
